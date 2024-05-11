@@ -299,7 +299,7 @@ textarea.input {
   position: relative
 }
 .checkbox:not(:last-child) {
-  margin-bottom: em(5)
+  margin-bottom: .3125em
 }
 .checkbox__input {
   position: absolute;
